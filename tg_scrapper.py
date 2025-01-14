@@ -11,7 +11,7 @@ client = TelegramClient('anon', API_ID, API_HASH)
 # Function to scrape messages and save only new ones to a file
 async def scrape_message(client, channel, processed_ids, limit=100):
     # File to save messages
-    file_path = "scraped_messages.txt"
+    file_path = "./data/scraped_messages.txt"
     # Open the file in append mode
     with open(file_path, "a", encoding="utf-8") as f:
         async for message in client.iter_messages(channel, limit):

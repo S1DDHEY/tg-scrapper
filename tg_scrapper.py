@@ -1,12 +1,10 @@
 from telethon import TelegramClient
 import asyncio
+import dontshare  
 
-# Replace these with your actual API ID and hash
-API_ID = "25590517"
-API_HASH = "6b57414d43f506d957bff007f1cb618c"
 
 # Initialize the Telegram client
-client = TelegramClient('anon', API_ID, API_HASH)
+client = TelegramClient('anon', dontshare.API_ID, dontshare.API_HASH)
 
 # Function to scrape messages and save only new ones to a file
 async def scrape_message(client, channel, processed_ids, limit=100):

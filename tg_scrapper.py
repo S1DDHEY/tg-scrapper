@@ -1,10 +1,15 @@
 from telethon import TelegramClient
 import asyncio
-import dontshare  
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+API_ID = os.getenv("API_ID")
+API_HASH = os.getenv("API_HASH")
 
 # Initialize the Telegram client
-client = TelegramClient('anon', dontshare.API_ID, dontshare.API_HASH)
+client = TelegramClient('anon', API_ID, API_HASH)
 
 # Function to scrape messages and save only new ones to a file
 async def scrape_message(client, channel, processed_ids, limit=100):
@@ -16,9 +21,9 @@ async def scrape_message(client, channel, processed_ids, limit=100):
             if message.id not in processed_ids and message.text:
                 processed_ids.add(message.id)  # Add message ID to the set
                 f.write(message.text + "\n")
-                f.write("-" * 50 + "\n")
+                f.write("-" * 100 + "\n")
                 print("Fetching...")
-                # print(message.text)  # Print to console
+                # print(message.text)
                 # print("-" * 50)
 
 # Function to run the scraper indefinitely

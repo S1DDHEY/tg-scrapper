@@ -1,12 +1,11 @@
-🌱 **YIZD** • $KMYI 🌱
+🌱 **Brazilian Digital Currency ** • $TheDrex 🌱
 
-📖 **Description: **__DGZV
-__
+📖 **Description: **__https://www.eiu.com/n/brazil-prepares-to-launch-digital-currency-by-early-2025/__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
        ├─ X: **`None`**
-       └─ Other: **`None`
+       └─ Other: ****https://www.eiu.com/n/brazil-prepares-to-launch-digital-currency-by-early-2025/**
 
 🔒 **Security:**
        ├─ ✅ Mint: `Revoked`
@@ -14,289 +13,28 @@ __
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**YIZD**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$KMYI**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**956,285,312.689**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.133156 ($24.76)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**10**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`6RRBuQZDHFah2kLASLEvatjPuwUhDpV9sfycfAW1pump`
-
-🔗[DEXS](https://dexscreener.com/solana/6RRBuQZDHFah2kLASLEvatjPuwUhDpV9sfycfAW1pump) • [RAY](https://raydium.io/swap/?inputCurrency=6RRBuQZDHFah2kLASLEvatjPuwUhDpV9sfycfAW1pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/B3eD65rgdrimTTSy1f3tuJn4ZkbQMMUCNGyHfcEFPzck) • [TOKEN](https://solscan.io/token/6RRBuQZDHFah2kLASLEvatjPuwUhDpV9sfycfAW1pump) • [TX](https://solscan.io/tx/5etizkRg4vQgLqhDrKWEdNZVp96GfXEnyaxTCPWj3ayc1wfTWAhmKNZCcVvroQuiMAFWGwoJ6d4uC8im8HZ9YDVm)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **CAPTAIN POTATO** • $CPTPOTATO 🌱
-
-📖 **Description: **
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**CAPTAIN POTATO**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$CPTPOTATO**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**902,454,545.634**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**10.448595 ($1942.81)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**6**](https://t.me/solanascanner)**
-       ├─ 🟢 __Dev Wallet Has Enough Money__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`9SE7WyC4fTHgnS7yUyUBfwPx7NwjpNXFqmBYWKexpump`
-
-🔗[DEXS](https://dexscreener.com/solana/9SE7WyC4fTHgnS7yUyUBfwPx7NwjpNXFqmBYWKexpump) • [RAY](https://raydium.io/swap/?inputCurrency=9SE7WyC4fTHgnS7yUyUBfwPx7NwjpNXFqmBYWKexpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/9WqwxajRTLMEs4b15ZVTkLWen5uXx5DMYQEq8EDePE1x) • [TOKEN](https://solscan.io/token/9SE7WyC4fTHgnS7yUyUBfwPx7NwjpNXFqmBYWKexpump) • [TX](https://solscan.io/tx/28NDkhAhcHokg8sEWc94HdVrikxKE1NKufqebyKb4XWsgQQ6fLz9av2ohubBFjkUs36fb1MgyHNHWMsiZkYdR2Sa)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **CodeScope AI** • $CodeScope 🌱
-
-📖 **Description: **__CodeScope isn't just another tool; it's a powerhouse designed to meet the evolving needs of developers and marketers alike. CodeScope aims to become an indispensable tool for professionals in the tech and marketing industries.
-__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**CodeScope AI**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$CodeScope**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**940,858,267.717**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.175976 ($32.72)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`Hai7hJuUqQUz2fQEdZHgNZqqkw3wFdp2eVKQCemJaNdk`
-
-🔗[DEXS](https://dexscreener.com/solana/Hai7hJuUqQUz2fQEdZHgNZqqkw3wFdp2eVKQCemJaNdk) • [RAY](https://raydium.io/swap/?inputCurrency=Hai7hJuUqQUz2fQEdZHgNZqqkw3wFdp2eVKQCemJaNdk&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/6jtAoRTy4KhBJjrPhK8ZiiSYZmHsR8kL2PeZXD8LSoLz) • [TOKEN](https://solscan.io/token/Hai7hJuUqQUz2fQEdZHgNZqqkw3wFdp2eVKQCemJaNdk) • [TX](https://solscan.io/tx/2j4heK5f62UqZ3XsSJayC3oRv7F9m3d5xRsXMQfv1vGLzSYooZM15yNXkTfgoBGhJui9efpUT5rpeYwBTSzb4udJ)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **Lacking In Schooling** • $LIS 🌱
-
-📖 **Description: **__Untaught people whose verbal skills are grossly deficient.__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Lacking In Schooling**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$LIS**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**955,434,504.792**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.061154 ($11.37)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**1**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`HiEuGRQ2QrzyZMpubL9chdE9oCMxvPK3SdGNmempump`
-
-🔗[DEXS](https://dexscreener.com/solana/HiEuGRQ2QrzyZMpubL9chdE9oCMxvPK3SdGNmempump) • [RAY](https://raydium.io/swap/?inputCurrency=HiEuGRQ2QrzyZMpubL9chdE9oCMxvPK3SdGNmempump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/6ut996pMRBsrR1EL35zNS9B4LdZupYNZvy22f7kMCyGq) • [TOKEN](https://solscan.io/token/HiEuGRQ2QrzyZMpubL9chdE9oCMxvPK3SdGNmempump) • [TX](https://solscan.io/tx/3uJhw7M59zuazHr7vJHnYLWuphHLpJFUhC9x4MFJNzaTAAKdstRpN1pVHhgsrpwwG159A45o28LXvciEfAdagiFv)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **Mr.Koth** • $mrkoth 🌱
-
-📖 **Description: **__👑 elevator to koth__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Mr.Koth**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$mrkoth**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**982,409,836.066**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.501232 ($93.20)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**4**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`Bnd3ATb7FrvVSnpMtqBDmefEQE9AuRguQnR7CVm8pump`
-
-🔗[DEXS](https://dexscreener.com/solana/Bnd3ATb7FrvVSnpMtqBDmefEQE9AuRguQnR7CVm8pump) • [RAY](https://raydium.io/swap/?inputCurrency=Bnd3ATb7FrvVSnpMtqBDmefEQE9AuRguQnR7CVm8pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/691mLXuHu8P3EDAgLNGKnMQfW9W5ezXkztCS1yxwV26r) • [TOKEN](https://solscan.io/token/Bnd3ATb7FrvVSnpMtqBDmefEQE9AuRguQnR7CVm8pump) • [TX](https://solscan.io/tx/5ZHL3G1uAWi8ks2mr7CaEiAwPc9stsC1ibzYFmDB9TtWCzdnoydtVqAMh7p9fCc5peP6jztyXbyng1KtZyVYZWRL)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **小红书周边IP品牌** • $REDclub 🌱
-
-📖 **Description: **
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**小红书周边IP品牌**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$REDclub**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**932,937,500**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**2.859004 ($531.60)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**4**](https://t.me/solanascanner)**
-       ├─ 🟠 __Dev Wallet Almost Dry__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`gUYfKgXA5goTqVrD7GHcT3SPfaS2QqubQ3ndGiypump`
-
-🔗[DEXS](https://dexscreener.com/solana/gUYfKgXA5goTqVrD7GHcT3SPfaS2QqubQ3ndGiypump) • [RAY](https://raydium.io/swap/?inputCurrency=gUYfKgXA5goTqVrD7GHcT3SPfaS2QqubQ3ndGiypump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/D6hGndgdSnGUyKrjey74Y7CmFKY6tM36ixACHr4pd2Li) • [TOKEN](https://solscan.io/token/gUYfKgXA5goTqVrD7GHcT3SPfaS2QqubQ3ndGiypump) • [TX](https://solscan.io/tx/2APwmi32gmvaHwYS7JGQJUuWS24od3K2LEt1Ec56w7jbJEBF7rXpSt9WBfe33EWCpAupD4RptMMDSENYhHiNnF1Y)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **Let Me Rug** • $RugBot 🌱
-
-📖 **Description: **__Let Me Rug Features:
-
- Key Functionalities:
-- Liquidity Pull Feature: Allows you to withdraw liquidity at a specific market cap.
-- Automatic Rug Button: Instantly removes all liquidity with a single click.
-- No Selling Feature (Blacklist wallets): Prevents holders from selling their tokens.
-- Fake Market Cap Pumping: Simulates fake transactions to create a realistic coin appearance, with up to $25,000 in fake market cap.
-
- Coin Launch Details:
-- Coins are launched on Raydium.
-- Starting Locked Liquidity: $3,000.
-- No need to spend extra SOL to buy your coin; simply withdraw the market cap when needed.
-
- Pricing:
-- Basic Setup: 1 SOL.
-- Optional Marketing Support: Additional 3 SOL.
-
-Fee Structure:
-- A 10% fee applies to all rugs executed through the bot.
-
-Accessibility:
-- Coins are automatically uploaded to ____Birdeye.so____ and ____Dexscreener.com____ for an extra 1 SOL.
-- Investors can purchase your coin via Telegram bots like Bullx and Trojan or using Phantom Wallet.__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: ****Birdeye.so**** • ****Dexscreener.com**
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Let Me Rug**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$RugBot**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**873,764,705.882**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**4.751232 ($883.44)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**21**](https://t.me/solanascanner)**
-       ├─ 🟢 __Dev Wallet Has Enough Money__
-       └─ 🟢 __Wallet Has Decent History__**
-
-🏠 **Address: **
-`J1T8FYB62kf7jjBk1NEZH36QEX32r3V4BfX9ECbQpump`
-
-🔗[DEXS](https://dexscreener.com/solana/J1T8FYB62kf7jjBk1NEZH36QEX32r3V4BfX9ECbQpump) • [RAY](https://raydium.io/swap/?inputCurrency=J1T8FYB62kf7jjBk1NEZH36QEX32r3V4BfX9ECbQpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/8oJcz2SyGBi6MNWNDkGv6cnEfbVjTWSxS9qtJ7PUX8MG) • [TOKEN](https://solscan.io/token/J1T8FYB62kf7jjBk1NEZH36QEX32r3V4BfX9ECbQpump) • [TX](https://solscan.io/tx/3EExL4NPw8FaDzdHAiNVyBKyxmPrexEsWuoF8nBKJDYgnRN3iJxmDmooqKTaVo5dzvMWKFb3TxCCpb7FLvSFaGis)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **MEMESINPARIS** • $MIP 🌱
-
-📖 **Description: **__Wait memes are in Paris now??? And Trump is there??__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**MEMESINPARIS**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$MIP**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Brazilian Digital Currency **](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$TheDrex**](https://t.me/solanascanner)**
        ├─ 💰 Total Supply:  **[**965,387,096.774**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**2.793230 ($519.37)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**16**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**1.001232 ($256.65)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**5**](https://t.me/solanascanner)**
        ├─ 🟠 __Dev Wallet Almost Dry__
        └─ 🟠 __Low Number Of Transactions__**
 
 🏠 **Address: **
-`7V3D7a6i6LfizT4n7nF2PuUhEGDXVYY4xNpSn136pump`
+`ASwmLrsah8aKnNrmCHhEx86NmfiJrKQW14eqbFFxpump`
 
-🔗[DEXS](https://dexscreener.com/solana/7V3D7a6i6LfizT4n7nF2PuUhEGDXVYY4xNpSn136pump) • [RAY](https://raydium.io/swap/?inputCurrency=7V3D7a6i6LfizT4n7nF2PuUhEGDXVYY4xNpSn136pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/4yE8DSJS6LXbgPdHuZiqoa6t8wBGXpYgmtTgJk8m8yxc) • [TOKEN](https://solscan.io/token/7V3D7a6i6LfizT4n7nF2PuUhEGDXVYY4xNpSn136pump) • [TX](https://solscan.io/tx/2vUa37p6XM6dVnoH4RSFdmcR85P9M9KADtFYX2hZQuxNSJPxqgwakM41Ksfa9N26iCpPo3V3d2NuJqNanw5ViQhR)
+🔗[DEXS](https://dexscreener.com/solana/ASwmLrsah8aKnNrmCHhEx86NmfiJrKQW14eqbFFxpump) • [RAY](https://raydium.io/swap/?inputCurrency=ASwmLrsah8aKnNrmCHhEx86NmfiJrKQW14eqbFFxpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/D6caVhoVpRFJLwaX4ARUUX7JtjtFX1CxXPyB2x2hVpJK) • [TOKEN](https://solscan.io/token/ASwmLrsah8aKnNrmCHhEx86NmfiJrKQW14eqbFFxpump) • [TX](https://solscan.io/tx/WTUfKYy3HbjZTmE17TsfCZ3DS5bpc4pmbNToEPTS8926qkcwnbFmzj9yN7ZWxcZDwVNEtHdbknWtUDeoeU2B1QC)
 
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **XHS** • $red 🌱
+📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
+----------------------------------------------------------------------------------------------------
+🌱 **Barron’s Nickname ** • $MINIDONALD 🌱
 
-📖 **Description: **__XiaoHongShu Official Mascot__
+📖 **Description: **__🤑 $MINIDONALD - Barron Trump’s nickname, symbolizing youthful ambition and the promise of a bright future rooted in a legendary legacy.__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -309,28 +47,28 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**XHS**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$red**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**984,142,857.143**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Barron’s Nickname **](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$MINIDONALD**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**972,401,402.962**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**9**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**0.451232 ($83.90)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**1**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
+       ├─ 💵 Balance: **[**1.578412 ($404.59)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
+       ├─ 🟠 __Dev Wallet Almost Dry__
        └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`HsqSMkBj66WsaXogTKMqHjJBSrvkT5rFSRrkqXN9pump`
+`A7gfpk3daFGnsxecemnok2542voygNF8RZ4sjLrhmoon`
 
-🔗[DEXS](https://dexscreener.com/solana/HsqSMkBj66WsaXogTKMqHjJBSrvkT5rFSRrkqXN9pump) • [RAY](https://raydium.io/swap/?inputCurrency=HsqSMkBj66WsaXogTKMqHjJBSrvkT5rFSRrkqXN9pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/AxvRohpwefrCJkM6m9KV39sBECAaDuXddAs1tKznUY1X) • [TOKEN](https://solscan.io/token/HsqSMkBj66WsaXogTKMqHjJBSrvkT5rFSRrkqXN9pump) • [TX](https://solscan.io/tx/2vb5pTddfLvV9QMXLFpizHM2cS2W411wpHKN3WnAchM1zp8AUeLypA684J12iYRE4omMQ7KMSaDa5eDxWd4zdmi4)
+🔗[DEXS](https://dexscreener.com/solana/A7gfpk3daFGnsxecemnok2542voygNF8RZ4sjLrhmoon) • [RAY](https://raydium.io/swap/?inputCurrency=A7gfpk3daFGnsxecemnok2542voygNF8RZ4sjLrhmoon&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/EpEbv6N1wC66UPxyfjU3dyBC9LKYXkuFBdw1wpnUi97j) • [TOKEN](https://solscan.io/token/A7gfpk3daFGnsxecemnok2542voygNF8RZ4sjLrhmoon) • [TX](https://solscan.io/tx/tX2y19GrLZrPZi4AcLV1AjptdPfXpwmDdgnzEV8pbVHNnb3Bd3xUmX2k3HBZqTtBgnFNQWEk8T8M1zJLNBbKgjH)
 
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **Xiaohongshu ** • $XHS 🌱
+📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
+----------------------------------------------------------------------------------------------------
+🌱 **OFFICIAL HITLER COIN** • $HITLER 🌱
 
-📖 **Description: **__TikTok banned? It doesn't matter, Xiaohongshu is the best social platform!__
+📖 **Description: **__The TRUMP PUMP is in full effect. Donald Pump to the moon!__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -343,94 +81,26 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Xiaohongshu **](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$XHS**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**OFFICIAL HITLER COIN**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$HITLER**](https://t.me/solanascanner)**
        ├─ 💰 Total Supply:  **[**902,454,545.455**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**3.001232 ($558.05)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
-       ├─ 🟢 __Dev Wallet Has Enough Money__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`GyVKDx7Nz2dT1VsKzPqMQRjrGz1Sh2r37HQhaNXwhQtC`
-
-🔗[DEXS](https://dexscreener.com/solana/GyVKDx7Nz2dT1VsKzPqMQRjrGz1Sh2r37HQhaNXwhQtC) • [RAY](https://raydium.io/swap/?inputCurrency=GyVKDx7Nz2dT1VsKzPqMQRjrGz1Sh2r37HQhaNXwhQtC&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/9CNqy1YQxfSvMHrL815bNzUAyGXBGtttTzM4nWCGv39r) • [TOKEN](https://solscan.io/token/GyVKDx7Nz2dT1VsKzPqMQRjrGz1Sh2r37HQhaNXwhQtC) • [TX](https://solscan.io/tx/2S6LcuqjHBtNWDxMnKep5oaR9NxVURYVraFzeoPrLxAeqSmjGH1KNG3u3YDzF6pb1tBi32SQC8TSXwS9ixtfu5kR)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **Alf** • $Alf 🌱
-
-📖 **Description: **__How do i close this thing__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Alf**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$Alf**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**932,937,500**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**4.048749 ($752.82)**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**4.315802 ($1106.27)**](https://t.me/solanascanner)**
        ├─ 🖨 Transactions: **[**3**](https://t.me/solanascanner)**
        ├─ 🟢 __Dev Wallet Has Enough Money__
        └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`7rMyMTQriCad9wwXXxgXxhrBGmEWcFzWw2WJ2nwRpump`
+`DfkFvqNSsvET5sSYeX5tGDYANobPdpB1DK7z2CRzqas8`
 
-🔗[DEXS](https://dexscreener.com/solana/7rMyMTQriCad9wwXXxgXxhrBGmEWcFzWw2WJ2nwRpump) • [RAY](https://raydium.io/swap/?inputCurrency=7rMyMTQriCad9wwXXxgXxhrBGmEWcFzWw2WJ2nwRpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/5C48nohkvbbS79D2BH9BCGWBWFr3uJVqyucLHo9GJp7L) • [TOKEN](https://solscan.io/token/7rMyMTQriCad9wwXXxgXxhrBGmEWcFzWw2WJ2nwRpump) • [TX](https://solscan.io/tx/bGxJ26h1zeKBL82AAtgbLLjXRFCZencuLmjuzEfaw1p4jD7Mf5DEpcyYfXXmAd98LjZfHZVLpEVhoLee9eoZrCj)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **Shib Equation** • $SHIBER 🌱
-
-📖 **Description: **__First equation made by a shiba inu.__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**Shib Equation**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$SHIBER**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**965,387,096.774**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.939617 ($174.71)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🚩 __Fresh Wallet Be Careful__**
-
-🏠 **Address: **
-`5Mxszab4wHwXfxKDRC5v9bKTXnDpEbN9HPiEjqsZpump`
-
-🔗[DEXS](https://dexscreener.com/solana/5Mxszab4wHwXfxKDRC5v9bKTXnDpEbN9HPiEjqsZpump) • [RAY](https://raydium.io/swap/?inputCurrency=5Mxszab4wHwXfxKDRC5v9bKTXnDpEbN9HPiEjqsZpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/5D9UZXRf78bPDxy48f6hCbwRWXqGJAtXf13XXR6HUTPZ) • [TOKEN](https://solscan.io/token/5Mxszab4wHwXfxKDRC5v9bKTXnDpEbN9HPiEjqsZpump) • [TX](https://solscan.io/tx/3MMv43RFPD9jDQPiny8FfUNtNFSbrtbgr1J2B4CkFpHfk4VKaYBK5iJ4S4U55f36N97TRemkL76PQQ6JuAEU2KFb)
+🔗[DEXS](https://dexscreener.com/solana/DfkFvqNSsvET5sSYeX5tGDYANobPdpB1DK7z2CRzqas8) • [RAY](https://raydium.io/swap/?inputCurrency=DfkFvqNSsvET5sSYeX5tGDYANobPdpB1DK7z2CRzqas8&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/GzbUmhiRjAUKewptCAPrUVmSTsEKeHYXf7pgJAPJbXPR) • [TOKEN](https://solscan.io/token/DfkFvqNSsvET5sSYeX5tGDYANobPdpB1DK7z2CRzqas8) • [TX](https://solscan.io/tx/3wnMKukjET6VQG3C6W4zM9kS2XriD8thPCLPcCvP9Zgb98AzoeEaHY7C3MZVzhYG4xrXQCDbiZzMhYEcBGa8BBhr)
 
 📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **cents8** • $cents8 🌱
+----------------------------------------------------------------------------------------------------
+🌱 **Philippine Coin** • $PH 🌱
 
 📖 **Description: **
 
@@ -445,96 +115,28 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**cents8**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$cents8**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**51,095,238.095**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Philippine Coin**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$PH**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**750,000,000**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**3.963516 ($736.98)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**18**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**11.195562 ($2869.76)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**5**](https://t.me/solanascanner)**
        ├─ 🟢 __Dev Wallet Has Enough Money__
        └─ 🟠 __Low Number Of Transactions__**
 
 🏠 **Address: **
-`82mKBHVSHAfMGgm9eWcTirLn89n1vvjA6k6GRMNSpump`
+`eacwb7RRuZdnyvu2uESgqEPfh5c58UV72dpn2Gbpump`
 
-🔗[DEXS](https://dexscreener.com/solana/82mKBHVSHAfMGgm9eWcTirLn89n1vvjA6k6GRMNSpump) • [RAY](https://raydium.io/swap/?inputCurrency=82mKBHVSHAfMGgm9eWcTirLn89n1vvjA6k6GRMNSpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/5SRpMaV2Ca9escnJQj6qzwjh8k2Vvd8rVP2Gv69k8VCz) • [TOKEN](https://solscan.io/token/82mKBHVSHAfMGgm9eWcTirLn89n1vvjA6k6GRMNSpump) • [TX](https://solscan.io/tx/4S7YidiijsvnucdQidaQaF72QaSbK9a9yBdjM6yXxfcEXrRWUefVZaSR3nbCodtKmhttxXbv7de6NKonnsfeYLZr)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **duang** • $duang 🌱
-
-📖 **Description: **
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**duang**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$duang**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**992,894,039.735**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**1.701232 ($316.33)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**13**](https://t.me/solanascanner)**
-       ├─ 🟠 __Dev Wallet Almost Dry__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`Drre1QQE3QTZy3ugzvHmJ9QW9yXdoZMNA5neGukapump`
-
-🔗[DEXS](https://dexscreener.com/solana/Drre1QQE3QTZy3ugzvHmJ9QW9yXdoZMNA5neGukapump) • [RAY](https://raydium.io/swap/?inputCurrency=Drre1QQE3QTZy3ugzvHmJ9QW9yXdoZMNA5neGukapump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/C71dhut2CqCHib63FFGisC3ULTC8BpLHpDuDdYLBJJTM) • [TOKEN](https://solscan.io/token/Drre1QQE3QTZy3ugzvHmJ9QW9yXdoZMNA5neGukapump) • [TX](https://solscan.io/tx/4AatUQWgdtQCzjpNDt7xcB5fjuAsVPZswjD7X3Uu4yakGAEcBBhfXAsZ1fpTn7DGZbZNkcKvGGBKdkUcp8GMjWVe)
+🔗[DEXS](https://dexscreener.com/solana/eacwb7RRuZdnyvu2uESgqEPfh5c58UV72dpn2Gbpump) • [RAY](https://raydium.io/swap/?inputCurrency=eacwb7RRuZdnyvu2uESgqEPfh5c58UV72dpn2Gbpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/Brxv9fScNc7eBS8chDnkpHGMWH1mRmzUKTEJRciXEDiC) • [TOKEN](https://solscan.io/token/eacwb7RRuZdnyvu2uESgqEPfh5c58UV72dpn2Gbpump) • [TX](https://solscan.io/tx/2MBTg52cUNAGmXrgwqhktszvrrQS2VAEbWxvcPeLLzCoN6ubFmej5DBCvp33B1iRLF7Y2enGiha6x2vJqRRQfuZL)
 
 📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **雪王** • $雪王 🌱
+----------------------------------------------------------------------------------------------------
+🌱 **Official Greenland Coin** • $GREENLAND 🌱
 
-📖 **Description: **
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**雪王**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$雪王**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**902,454,545.634**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.854078 ($158.81)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**7**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`3ttMwg5L2L2T7tCXPAhpaFZeJPEwM6GxFZRJYma8pump`
-
-🔗[DEXS](https://dexscreener.com/solana/3ttMwg5L2L2T7tCXPAhpaFZeJPEwM6GxFZRJYma8pump) • [RAY](https://raydium.io/swap/?inputCurrency=3ttMwg5L2L2T7tCXPAhpaFZeJPEwM6GxFZRJYma8pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/AsVNrpaJ5DELhUChP11xzC8WfW7g6z7WqsNWxQo9mDG9) • [TOKEN](https://solscan.io/token/3ttMwg5L2L2T7tCXPAhpaFZeJPEwM6GxFZRJYma8pump) • [TX](https://solscan.io/tx/5R9qXzZF2iQ25AWTpFhUngjdZibBFRP5FT5vekohsv8fzfn8676zCb4KC6rEwxFSYdwdDcG4UNxKbzHLjAwWdAUr)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **ape²** • $ape² 🌱
-
-📖 **Description: **__just 2 fucking apes__
+📖 **Description: **__The launch of the Greenland Crypto Coin on the Solana blockchain marks to significant milestone for Greenland venture into the digital economy traditional blending currency with the fast efficient capabilities of blockchain technology.__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -547,28 +149,30 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**ape²**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$ape²**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Official Greenland Coin**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$GREENLAND**](https://t.me/solanascanner)**
        ├─ 💰 Total Supply:  **[**965,387,096.774**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**1.054177 ($196.01)**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**3.519891 ($902.25)**](https://t.me/solanascanner)**
        ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
-       ├─ 🟠 __Dev Wallet Almost Dry__
+       ├─ 🟢 __Dev Wallet Has Enough Money__
        └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`ETJKdr6Cm48z7zHNDLoasahRYqX4LhPXHLuZ3KB95JsE`
+`3MhDTo3x5G3L5xBtriM6zyNo85hFTNGwEDiYNGKMpump`
 
-🔗[DEXS](https://dexscreener.com/solana/ETJKdr6Cm48z7zHNDLoasahRYqX4LhPXHLuZ3KB95JsE) • [RAY](https://raydium.io/swap/?inputCurrency=ETJKdr6Cm48z7zHNDLoasahRYqX4LhPXHLuZ3KB95JsE&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/GrfhADWQkGe2Y96nejDs5TLqpUg8UX9a2Vux6eLiJGw2) • [TOKEN](https://solscan.io/token/ETJKdr6Cm48z7zHNDLoasahRYqX4LhPXHLuZ3KB95JsE) • [TX](https://solscan.io/tx/oWDwXrfVXrYjh9v5pV6o6avj1hGG8nHP38SZTKfdNR7h5H4uMAGFmdb8u2jjUwXUVGigdK15Uu18DiPYCsCKbYt)
+🔗[DEXS](https://dexscreener.com/solana/3MhDTo3x5G3L5xBtriM6zyNo85hFTNGwEDiYNGKMpump) • [RAY](https://raydium.io/swap/?inputCurrency=3MhDTo3x5G3L5xBtriM6zyNo85hFTNGwEDiYNGKMpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/ZQKJGDXiC8UX9VFRxowGKdK49juXoYZJJAtvQpGos1H) • [TOKEN](https://solscan.io/token/3MhDTo3x5G3L5xBtriM6zyNo85hFTNGwEDiYNGKMpump) • [TX](https://solscan.io/tx/2CdvU2xd9hELYB1wDYAGR3NYsNHNPrwouLxgmrWpwpjknyw4XhTPKHPEFwKsLjhJ5fDnGRa3LBLsfFMKpv1NpDua)
 
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **insta3D** • $instaAI 🌱
+📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
+----------------------------------------------------------------------------------------------------
+🌱 **Barron’s Nickname** • $MINIDONALD 🌱
 
-📖 **Description: **__Insta3D AI__
+📖 **Description: **__$MINIDONALD is a Solana token inspired by Barron Trump, embodying youthful promise and the legacy of greatness. This token symbolizes the bridge between tradition and the future, showcasing the potential of the next generation of leadership. $MINIDONALD combines ambition, innovation, and the strength of an enduring legacy in the ever-evolving blockchain world.
+
+__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -581,62 +185,198 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**insta3D**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$instaAI**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**999,964,234.526**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Barron’s Nickname**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$MINIDONALD**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**954,121,888.96**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**0.022247 ($4.14)**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**0.076125 ($19.51)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**3**](https://t.me/solanascanner)**
+       ├─ 🚩 __Dev Wallet Empty__
+       └─ 🚩 __Fresh Wallet Be Careful__**
+
+🏠 **Address: **
+`8bkLpGxvj5hzWjcarYKquQxAMTv3wMjubDSck8Dnpump`
+
+🔗[DEXS](https://dexscreener.com/solana/8bkLpGxvj5hzWjcarYKquQxAMTv3wMjubDSck8Dnpump) • [RAY](https://raydium.io/swap/?inputCurrency=8bkLpGxvj5hzWjcarYKquQxAMTv3wMjubDSck8Dnpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/D67E2Utwkg9HCDwxAAXuGUGfiWHZUFx8XMpo9W2LytV2) • [TOKEN](https://solscan.io/token/8bkLpGxvj5hzWjcarYKquQxAMTv3wMjubDSck8Dnpump) • [TX](https://solscan.io/tx/2koELJtbQko9MMMyNoCcwEQSapu9WZiKvgkdfMD3hoU5aCYS4z5M686ftuR71rbPzx7t35ULvHWNqpZqPS2yR6Px)
+
+📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
+----------------------------------------------------------------------------------------------------
+🌱 **MELANIA OFFICIAL MEME** • $MELANIA 🌱
+
+📖 **Description: **__THE OFFICIAL MELANIA MEME TOKEN__
+
+📱 **Socials:
+       ├─ Telegram: **`None`**
+       ├─ X: **`None`**
+       └─ Other: **`None`
+
+🔒 **Security:**
+       ├─ ✅ Mint: `Revoked`
+       ├─ ✅ Freeze: `Revoked`
+       └─ ✅ Update: `Revoked`
+
+💎 **Tokenomics:
+       ├─ 🏷 Name: **[**MELANIA OFFICIAL MEME**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$MELANIA**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**998,571,238.349**](https://t.me/solanascanner)**
+       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+
+👤 Creator Details:
+       ├─ 💵 Balance: **[**0.082136 ($21.05)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**3**](https://t.me/solanascanner)**
+       ├─ 🚩 __Dev Wallet Empty__
+       └─ 🚩 __Fresh Wallet Be Careful__**
+
+🏠 **Address: **
+`7j2bHR9ytXSwoPDpS7NeXfh4CxLQLVRuvd1j83zCpump`
+
+🔗[DEXS](https://dexscreener.com/solana/7j2bHR9ytXSwoPDpS7NeXfh4CxLQLVRuvd1j83zCpump) • [RAY](https://raydium.io/swap/?inputCurrency=7j2bHR9ytXSwoPDpS7NeXfh4CxLQLVRuvd1j83zCpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/DSugScL6MZkZTyV1LkAKTSkjNGex4oNJaxJ97NpZ2dpf) • [TOKEN](https://solscan.io/token/7j2bHR9ytXSwoPDpS7NeXfh4CxLQLVRuvd1j83zCpump) • [TX](https://solscan.io/tx/37kSpCbEJYVmeDjzB3sPuhtsrwm1AJRiMoL8QFW5jvkFExiiGRc6PdQqKHR1eUC4EiVjxna55jAW7LWGZkbytXBP)
+
+📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
+----------------------------------------------------------------------------------------------------
+🌱 **Wizard AI** • $WIZARD AI 🌱
+
+📖 **Description: **__Wizard AI is a no-code platform that transforms your ideas, dreams, and thoughts into dynamic, living applications with ease.__
+
+📱 **Socials:
+       ├─ Telegram: **`None`**
+       ├─ X: **`None`**
+       └─ Other: **`None`
+
+🔒 **Security:**
+       ├─ ✅ Mint: `Revoked`
+       ├─ ✅ Freeze: `Revoked`
+       └─ ✅ Update: `Revoked`
+
+💎 **Tokenomics:
+       ├─ 🏷 Name: **[**Wizard AI**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$WIZARD AI**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**917,461,538.462**](https://t.me/solanascanner)**
+       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+
+👤 Creator Details:
+       ├─ 💵 Balance: **[**3.280217 ($840.82)**](https://t.me/solanascanner)**
        ├─ 🖨 Transactions: **[**1**](https://t.me/solanascanner)**
+       ├─ 🟢 __Dev Wallet Has Enough Money__
+       └─ 🚩 __Fresh Wallet Be Careful__**
+
+🏠 **Address: **
+`HuCFhi4U4L8SPwCEXS47o7VGhGUaTSa15ejWEza9pump`
+
+🔗[DEXS](https://dexscreener.com/solana/HuCFhi4U4L8SPwCEXS47o7VGhGUaTSa15ejWEza9pump) • [RAY](https://raydium.io/swap/?inputCurrency=HuCFhi4U4L8SPwCEXS47o7VGhGUaTSa15ejWEza9pump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/25o5RwMGJndZmiJyN7iTiaCxBQq95QfFWFGYcwWJmmG6) • [TOKEN](https://solscan.io/token/HuCFhi4U4L8SPwCEXS47o7VGhGUaTSa15ejWEza9pump) • [TX](https://solscan.io/tx/VzwjPtRaNUtkzEpxPt9k1x68xBKzPCVrT2GAhS2ZvANuLbsEJAJmtMvbFqR5LbTXa6u6vGJ4M5TP8WQ3JwnGCrt)
+
+📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
+----------------------------------------------------------------------------------------------------
+🌱 **Official Cuba Coin** • $CUBA 🌱
+
+📖 **Description: **__The launch of the " Cuba Crypto Coin on the Solana blockchain marks to significant milestone for Cuba venture into the digital economy traditional blending currency with the fast efficient capabilities of blockchain technology. Design and Concept : The coin is designed with elements symbolic of Cuban culture possibly featuring iconic imagery like the Cuban flag the Morro Castle or a Classic Cuban car to resonate with national pride The choice of Solarium ace the platform es driven by its high transaction throughput and low fees making Item an ideal environment for a new cryptocurrency intended for everyday use This coin aims to facilitate transactions both locally and internationally, providing an alternative to traditional banking systems which are often hampered by U sanctions Purpose and Utility : The primary goal is to enable Cubans to engage in and receive remitt and conduct financial transactions with to currency that es not subject to the same geopolitical restrictions ace the Cuban peso This move could potentially help in circumventing some of the economic challenges faced due to international financial blockades. The coin might also serves ace to tool for microtransactions supporting digital art music, or small-scale businesses through a decentralized finance (Of approach.__
+
+📱 **Socials:
+       ├─ Telegram: **`None`**
+       ├─ X: **`None`**
+       └─ Other: **`None`
+
+🔒 **Security:**
+       ├─ ✅ Mint: `Revoked`
+       ├─ ✅ Freeze: `Revoked`
+       └─ ✅ Update: `Revoked`
+
+💎 **Tokenomics:
+       ├─ 🏷 Name: **[**Official Cuba Coin**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$CUBA**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**962,048,231.511**](https://t.me/solanascanner)**
+       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+
+👤 Creator Details:
+       ├─ 💵 Balance: **[**22.267229 ($5707.76)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**4**](https://t.me/solanascanner)**
+       ├─ 🟢 __Dev Wallet Has Enough Money__
+       └─ 🚩 __Fresh Wallet Be Careful__**
+
+🏠 **Address: **
+`9GWL4QHERnFbUXt1hV6vNpaQxuQdyqW4PopH3KKX4tk2`
+
+🔗[DEXS](https://dexscreener.com/solana/9GWL4QHERnFbUXt1hV6vNpaQxuQdyqW4PopH3KKX4tk2) • [RAY](https://raydium.io/swap/?inputCurrency=9GWL4QHERnFbUXt1hV6vNpaQxuQdyqW4PopH3KKX4tk2&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/2ADsiyLu18paoqZbbkWpmrZ8BM99YK1hsucnGWsBpeJr) • [TOKEN](https://solscan.io/token/9GWL4QHERnFbUXt1hV6vNpaQxuQdyqW4PopH3KKX4tk2) • [TX](https://solscan.io/tx/2BX5wofpFck2Cx4x7Hxyx4CtMfGYza87EanPSKNYQQA3d1ev5bMuRTxbds6JgAPZX6YRgFVxekHGoG9jN3gbbEiU)
+
+📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
+----------------------------------------------------------------------------------------------------
+🌱 **Smile AI** • $SMILE 🌱
+
+📖 **Description: **__Leveraging AI and 3D rendering technology to build the next-generation social network.__
+
+📱 **Socials:
+       ├─ Telegram: **`None`**
+       ├─ X: **`None`**
+       └─ Other: **`None`
+
+🔒 **Security:**
+       ├─ ✅ Mint: `Revoked`
+       ├─ ✅ Freeze: `Revoked`
+       └─ ✅ Update: `Revoked`
+
+💎 **Tokenomics:
+       ├─ 🏷 Name: **[**Smile AI**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$SMILE**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**900,000,000**](https://t.me/solanascanner)**
+       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+
+👤 Creator Details:
+       ├─ 💵 Balance: **[**0.148644 ($38.10)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**7**](https://t.me/solanascanner)**
+       ├─ 🚩 __Dev Wallet Empty__
+       └─ 🟠 __Low Number Of Transactions__**
+
+🏠 **Address: **
+`GLdS8eEkKeZF53bFtDCovi15HVSdY8STL1VVrQygpump`
+
+🔗[DEXS](https://dexscreener.com/solana/GLdS8eEkKeZF53bFtDCovi15HVSdY8STL1VVrQygpump) • [RAY](https://raydium.io/swap/?inputCurrency=GLdS8eEkKeZF53bFtDCovi15HVSdY8STL1VVrQygpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/4ugfXNio3DjvEJ7xsnsQEUfjUzXMEzKqJgfqee3bY7uo) • [TOKEN](https://solscan.io/token/GLdS8eEkKeZF53bFtDCovi15HVSdY8STL1VVrQygpump) • [TX](https://solscan.io/tx/2hrmpMHz8EYMCWqB6o97j8r2kTzYpb2THcusjNQ8bp1Fs8wLxPMwJu6cvwHKkLrtUWNrugkM6xbxyoCkRCfBfAjn)
+
+📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
+----------------------------------------------------------------------------------------------------
+🌱 **FIRST REAL CHART** • $FRC 🌱
+
+📖 **Description: **
+
+📱 **Socials:
+       ├─ Telegram: **`None`**
+       ├─ X: **`None`**
+       └─ Other: **`None`
+
+🔒 **Security:**
+       ├─ ✅ Mint: `Revoked`
+       ├─ ✅ Freeze: `Revoked`
+       └─ ✅ Update: `Revoked`
+
+💎 **Tokenomics:
+       ├─ 🏷 Name: **[**FIRST REAL CHART**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$FRC**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**991,132,231.405**](https://t.me/solanascanner)**
+       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
+       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
+
+👤 Creator Details:
+       ├─ 💵 Balance: **[**0.251232 ($64.40)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
        ├─ 🚩 __Dev Wallet Empty__
        └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`FkgbDPJuD6ZYjutDCjP7hfxpHpCRpo19uqrUrMiBpump`
+`EATabZx8eavvuxkMrFhxvpoTN6XNjXrTA2tUTBATpump`
 
-🔗[DEXS](https://dexscreener.com/solana/FkgbDPJuD6ZYjutDCjP7hfxpHpCRpo19uqrUrMiBpump) • [RAY](https://raydium.io/swap/?inputCurrency=FkgbDPJuD6ZYjutDCjP7hfxpHpCRpo19uqrUrMiBpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/2RVzprKktWto8h342xxkaLh7uX4ewQ4o8pRnF28718Bc) • [TOKEN](https://solscan.io/token/FkgbDPJuD6ZYjutDCjP7hfxpHpCRpo19uqrUrMiBpump) • [TX](https://solscan.io/tx/4WS8dD2CQ4WLnGXwKTJNP51PjACC2Fc4wenjqgkzW2ULf7m1ez7oVS6y4eFYdfWNptW3mwqNSgtA3rhoeGkFJ3PT)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **先富带后富🐍** • $🐍 🌱
-
-📖 **Description: **__先富带后富🐍__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**先富带后富🐍**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$🐍**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**948,904,752.81**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**2.004654 ($372.75)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**7**](https://t.me/solanascanner)**
-       ├─ 🟠 __Dev Wallet Almost Dry__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`1sJ1qNr42cMii6xYiKaQ2WNnxUAWAmAw8zj35r5S6hr`
-
-🔗[DEXS](https://dexscreener.com/solana/1sJ1qNr42cMii6xYiKaQ2WNnxUAWAmAw8zj35r5S6hr) • [RAY](https://raydium.io/swap/?inputCurrency=1sJ1qNr42cMii6xYiKaQ2WNnxUAWAmAw8zj35r5S6hr&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/8aCFvezbY9sV7ku46qCmqqdwhD8uDpJ6zfskSQSrGcPJ) • [TOKEN](https://solscan.io/token/1sJ1qNr42cMii6xYiKaQ2WNnxUAWAmAw8zj35r5S6hr) • [TX](https://solscan.io/tx/39khVYdy3M5nr1d1MLDtELwvYRhnjyn6RqSxffoQiF3ESzRgtp4vRMu4J3PXpHkvbA83yP647vrK4djce8WJTVCQ)
+🔗[DEXS](https://dexscreener.com/solana/EATabZx8eavvuxkMrFhxvpoTN6XNjXrTA2tUTBATpump) • [RAY](https://raydium.io/swap/?inputCurrency=EATabZx8eavvuxkMrFhxvpoTN6XNjXrTA2tUTBATpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/5zTWF9uAVy96DzCqEynBj8iA52aoKSkifjDwdEn29Ekj) • [TOKEN](https://solscan.io/token/EATabZx8eavvuxkMrFhxvpoTN6XNjXrTA2tUTBATpump) • [TX](https://solscan.io/tx/4kLEAUXCoVyqMZqPEEfiTSh4vSZd1v7sSifSZz3AREspP5DXhHLZjFaFmUXh4AvNdZxc7WkiVVDvvdCbCzvr1YfY)
 
 📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **FIRST CRYPTO PRESIDENT (FCP)** • $FCP 🌱
+----------------------------------------------------------------------------------------------------
+🌱 **Bidens last selfie** • $Bls 🌱
 
-📖 **Description: **__FIRST CRYPTO PRESIDENT (FCP)__
+📖 **Description: **
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -649,28 +389,28 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**FIRST CRYPTO PRESIDENT (FCP)**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$FCP**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**999,996,423.345**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**Bidens last selfie**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$Bls**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**911,152,866.242**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**0.081546 ($15.16)**](https://t.me/solanascanner)**
+       ├─ 💵 Balance: **[**2.709565 ($694.54)**](https://t.me/solanascanner)**
        ├─ 🖨 Transactions: **[**1**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
+       ├─ 🟠 __Dev Wallet Almost Dry__
        └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`DpLaB425sw92LNM9mqWhJM1kA6Fw2bCtQ3Bjr5Mcpump`
+`5GhAgNFD4SnpYFovUqk6tbKhrepotbcFTp7nsPQYgKes`
 
-🔗[DEXS](https://dexscreener.com/solana/DpLaB425sw92LNM9mqWhJM1kA6Fw2bCtQ3Bjr5Mcpump) • [RAY](https://raydium.io/swap/?inputCurrency=DpLaB425sw92LNM9mqWhJM1kA6Fw2bCtQ3Bjr5Mcpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/GzoadMynyTviyQuvBjW924caaFgKhWNNVwtRX7JKLLHR) • [TOKEN](https://solscan.io/token/DpLaB425sw92LNM9mqWhJM1kA6Fw2bCtQ3Bjr5Mcpump) • [TX](https://solscan.io/tx/qM7HAhnfqajx4kFfuCx2ZEUHeC5yrryAMxtMtXMrW3NQnrS5zE9RJEKa9RMN9wcxiiw9pfXbBsE7kmBApGa5ju6)
+🔗[DEXS](https://dexscreener.com/solana/5GhAgNFD4SnpYFovUqk6tbKhrepotbcFTp7nsPQYgKes) • [RAY](https://raydium.io/swap/?inputCurrency=5GhAgNFD4SnpYFovUqk6tbKhrepotbcFTp7nsPQYgKes&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/87LWtPPS8iBfYCaWCWopYHf8VwqkjirudidYBTEvVKGM) • [TOKEN](https://solscan.io/token/5GhAgNFD4SnpYFovUqk6tbKhrepotbcFTp7nsPQYgKes) • [TX](https://solscan.io/tx/66dpvrCWK7cawKYbkr6VKMzkvzJKQAJe1uhuWUSdF4ysimZi1ZhLUzZ2vNnP2PPpWTU2G2gEXEWY22kjZujmmAXX)
 
 📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **tio pepe** • $TIO 🌱
+----------------------------------------------------------------------------------------------------
+🌱 **UnicakeXBT** • $CAKEXBT 🌱
 
-📖 **Description: **__A sombrero-wearing Mexican frog who loves tacos, siestas, and good vibes.__
+📖 **Description: **__The first AI agent token for yield farming__
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -683,96 +423,28 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**tio pepe**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$TIO**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**989,376,237.624**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**UnicakeXBT**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$CAKEXBT**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**785,400,000**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**1.963323 ($365.06)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**7**](https://t.me/solanascanner)**
-       ├─ 🟠 __Dev Wallet Almost Dry__
+       ├─ 💵 Balance: **[**13.109182 ($3360.28)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**17**](https://t.me/solanascanner)**
+       ├─ 🟢 __Dev Wallet Has Enough Money__
        └─ 🟠 __Low Number Of Transactions__**
 
 🏠 **Address: **
-`24GF6iQ4rfhnDKVAp2PPR3BDwA8CA1S4fFaZ8EmKpump`
+`C6zVJoDgkxnstTRYvHrwJUZENbixVMuVma89mLtupump`
 
-🔗[DEXS](https://dexscreener.com/solana/24GF6iQ4rfhnDKVAp2PPR3BDwA8CA1S4fFaZ8EmKpump) • [RAY](https://raydium.io/swap/?inputCurrency=24GF6iQ4rfhnDKVAp2PPR3BDwA8CA1S4fFaZ8EmKpump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/Cq37ZazfttYtfTFAXmydxDPSUpBqw4XJc8gbNEMRqoJP) • [TOKEN](https://solscan.io/token/24GF6iQ4rfhnDKVAp2PPR3BDwA8CA1S4fFaZ8EmKpump) • [TX](https://solscan.io/tx/3SyyJbXgZCe1GfdpfBTJYj3P2d3GFj3LiF9h3p6s5k6m75kqtPZ7EeQ9fY2rzGt7RTNL6K2RNWnsYFaTxDKcJUxs)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **eqjcxsuxues** • $64 🌱
-
-📖 **Description: **__qwejcqxuxwus__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**eqjcxsuxues**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$64**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**913,666,666.667**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.760545 ($141.42)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**6**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`DQ6J6uiUcXdPLRSEKeTtfZohNDDKEWpk2sW2FhWBXRXr`
-
-🔗[DEXS](https://dexscreener.com/solana/DQ6J6uiUcXdPLRSEKeTtfZohNDDKEWpk2sW2FhWBXRXr) • [RAY](https://raydium.io/swap/?inputCurrency=DQ6J6uiUcXdPLRSEKeTtfZohNDDKEWpk2sW2FhWBXRXr&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/HPChUAvH7LkarfQaFWB4CpY83i3EKQ73FxvMT9ERyejn) • [TOKEN](https://solscan.io/token/DQ6J6uiUcXdPLRSEKeTtfZohNDDKEWpk2sW2FhWBXRXr) • [TX](https://solscan.io/tx/4ffW3X1MFWmipFpJ1VVYNFQDNvywDGknxu7S9C87P11PXD8UqUijRywdWNvgMajm1ULkTQwb7ocUozzAbXM389fG)
-
-📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **hqhpswtqejs** • $84 🌱
-
-📖 **Description: **__qwhhpqwtwqjs__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**hqhpswtqejs**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$84**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**914,362,738.482**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.761630 ($141.62)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**13**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`3b6XanCTGfanuteJjB4p2SCRAmoLZNmc4QgnBJx6iSB8`
-
-🔗[DEXS](https://dexscreener.com/solana/3b6XanCTGfanuteJjB4p2SCRAmoLZNmc4QgnBJx6iSB8) • [RAY](https://raydium.io/swap/?inputCurrency=3b6XanCTGfanuteJjB4p2SCRAmoLZNmc4QgnBJx6iSB8&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/G9eP8tRXpKC86iM795LmgCFfwJ9MkuMoTDfmuBrXyqw8) • [TOKEN](https://solscan.io/token/3b6XanCTGfanuteJjB4p2SCRAmoLZNmc4QgnBJx6iSB8) • [TX](https://solscan.io/tx/5SUL8orUmbzxAYcYsTcYeqqsBEV8EMLttrV85MEDnPnAxu5cbZRsAe4Qg8DQZoeommcyhGc3swCvjvbEuz53zn9P)
+🔗[DEXS](https://dexscreener.com/solana/C6zVJoDgkxnstTRYvHrwJUZENbixVMuVma89mLtupump) • [RAY](https://raydium.io/swap/?inputCurrency=C6zVJoDgkxnstTRYvHrwJUZENbixVMuVma89mLtupump&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/7uh8XxvumGwtz2ttFdSDC11fq48XEVUTmSTyiPTec2L4) • [TOKEN](https://solscan.io/token/C6zVJoDgkxnstTRYvHrwJUZENbixVMuVma89mLtupump) • [TX](https://solscan.io/tx/2BaiFtZasgxBz4Ar3H2NW3gwY9JQz74BboQLaiHrYRFoCWds4L5ps6ND819LLNwxHYArRjbc17WKaKkPBgpsshrw)
 
 📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
-🌱 **lkqanswweos** • $86 🌱
+----------------------------------------------------------------------------------------------------
+🌱 **criminal illegal aliens** • $cia 🌱
 
-📖 **Description: **__lqwkaqnwwwos__
+📖 **Description: **
 
 📱 **Socials:
        ├─ Telegram: **`None`**
@@ -785,56 +457,22 @@ Accessibility:
        └─ ✅ Update: `Revoked`
 
 💎 **Tokenomics:
-       ├─ 🏷 Name: **[**lkqanswweos**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$86**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**913,394,557.823**](https://t.me/solanascanner)**
+       ├─ 🏷 Name: **[**criminal illegal aliens**](https://t.me/solanascanner)**
+       ├─ 💲 Symbol: **[**$cia**](https://t.me/solanascanner)**
+       ├─ 💰 Total Supply:  **[**902,454,545.455**](https://t.me/solanascanner)**
        ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
        └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
 
 👤 Creator Details:
-       ├─ 💵 Balance: **[**0.760122 ($141.34)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**15**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
+       ├─ 💵 Balance: **[**3.001232 ($769.31)**](https://t.me/solanascanner)**
+       ├─ 🖨 Transactions: **[**2**](https://t.me/solanascanner)**
+       ├─ 🟢 __Dev Wallet Has Enough Money__
+       └─ 🚩 __Fresh Wallet Be Careful__**
 
 🏠 **Address: **
-`GWrAgSpg6ZF8P47x1Y5xiua5DTpaqy958RCuQb8aMDzs`
+`BZdQaCVQx1v2mNyCiS3GXCwCf7pHiYFnGNsoMMMGVhcb`
 
-🔗[DEXS](https://dexscreener.com/solana/GWrAgSpg6ZF8P47x1Y5xiua5DTpaqy958RCuQb8aMDzs) • [RAY](https://raydium.io/swap/?inputCurrency=GWrAgSpg6ZF8P47x1Y5xiua5DTpaqy958RCuQb8aMDzs&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/FFQPyP1bqvuB4aCFTahFuDZ8KTurNkM6EpWzH8mHZSWr) • [TOKEN](https://solscan.io/token/GWrAgSpg6ZF8P47x1Y5xiua5DTpaqy958RCuQb8aMDzs) • [TX](https://solscan.io/tx/3ZQGWh4AAmuYB6LzVMquf68RZi4xwdNW2pvGFjFVB6dMTMF6uTBYyyTnid3NUFKiQTHREU2RrSg73GkEQvCvDq7T)
+🔗[DEXS](https://dexscreener.com/solana/BZdQaCVQx1v2mNyCiS3GXCwCf7pHiYFnGNsoMMMGVhcb) • [RAY](https://raydium.io/swap/?inputCurrency=BZdQaCVQx1v2mNyCiS3GXCwCf7pHiYFnGNsoMMMGVhcb&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/924QnH315YUs6UDBGCGUT6P1pjWBdF2mF3n1ineWgriv) • [TOKEN](https://solscan.io/token/BZdQaCVQx1v2mNyCiS3GXCwCf7pHiYFnGNsoMMMGVhcb) • [TX](https://solscan.io/tx/8LfBo2PRYhrQx6eUPdCyzyakVMRDUGWtCP7RrF7j3mPVpmXnTCqxSsveUD6n3q1kmp3N6Wry9MkrqG6LGiedKHP)
 
 📣 Ad: **__@solanascanner__****__ - real-time new token notifications__**
---------------------------------------------------
-🌱 **wqfzswyewrs** • $99 🌱
-
-📖 **Description: **__qwwfzqwwywrs__
-
-📱 **Socials:
-       ├─ Telegram: **`None`**
-       ├─ X: **`None`**
-       └─ Other: **`None`
-
-🔒 **Security:**
-       ├─ ✅ Mint: `Revoked`
-       ├─ ✅ Freeze: `Revoked`
-       └─ ✅ Update: `Revoked`
-
-💎 **Tokenomics:
-       ├─ 🏷 Name: **[**wqfzswyewrs**](https://t.me/solanascanner)**
-       ├─ 💲 Symbol: **[**$99**](https://t.me/solanascanner)**
-       ├─ 💰 Total Supply:  **[**913,757,402.98**](https://t.me/solanascanner)**
-       ├─ 📤 Tax:  **[**0%**](https://t.me/solanascanner)**
-       └─ 🔷 Decimals: **[**6**](https://t.me/solanascanner)**
-
-👤 Creator Details:
-       ├─ 💵 Balance: **[**0.102687 ($19.09)**](https://t.me/solanascanner)**
-       ├─ 🖨 Transactions: **[**5**](https://t.me/solanascanner)**
-       ├─ 🚩 __Dev Wallet Empty__
-       └─ 🟠 __Low Number Of Transactions__**
-
-🏠 **Address: **
-`9vewh4gijjD5TvZc3vLx3nPhe5pAGgf7tP61F8NyV5wK`
-
-🔗[DEXS](https://dexscreener.com/solana/9vewh4gijjD5TvZc3vLx3nPhe5pAGgf7tP61F8NyV5wK) • [RAY](https://raydium.io/swap/?inputCurrency=9vewh4gijjD5TvZc3vLx3nPhe5pAGgf7tP61F8NyV5wK&outputCurrency=So11111111111111111111111111111111111111112&fixed=in) • [OWNER](https://solscan.io/account/3wudUu9rUFa5HbsowAf2kgbkfr8vPZxBLtSxqvTsgGLB) • [TOKEN](https://solscan.io/token/9vewh4gijjD5TvZc3vLx3nPhe5pAGgf7tP61F8NyV5wK) • [TX](https://solscan.io/tx/3crhVH8eRfwtu1czBitwtv8pKURNucYMxz5WKXqDbu1SAQBxZ3kK6Z2zkMmNnXvZnfMNNKfUdnjv4zRktXWjNYWE)
-
-📣 Ad: [**__@solanascanner - real-time new token notifications__**](https://t.me/solanascanner)
---------------------------------------------------
+----------------------------------------------------------------------------------------------------

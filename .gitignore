@@ -1,2 +1,4 @@
+*.pyc
 anon.session 
 dontshare.py
+anon.session-journal
